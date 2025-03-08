@@ -17,6 +17,11 @@ VaccineVista is a Java and MySQL-based web application designed to manage the bo
 - **Manage Users**: Admins can view, add, edit, and delete user accounts.
 - **Manage Hospitals**: Admins can view, add, edit, and delete hospital records.
 - **View Reports**: Admins can view reports on vaccination bookings and system usage.
+![Screenshot (5)](https://github.com/user-attachments/assets/2f3343d9-d2a4-480e-9321-04005088acb9)
+![Screenshot (6)](https://github.com/user-attachments/assets/457287f0-b283-44c3-8037-15f931b499b6)
+![Screenshot (7)](https://github.com/user-attachments/assets/99e4b967-b70a-4cd6-8175-8210878250ae)
+![Screenshot (8)](https://github.com/user-attachments/assets/c72bf314-52e8-418a-8fea-b99c1da98ae4)
+
 
 ### Hospital Dashboard
 - **Hospital Login**: Hospitals can log in to manage their vaccination slots.
